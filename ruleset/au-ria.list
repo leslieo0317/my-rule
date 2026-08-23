@@ -1,0 +1,22 @@
+# Australia - Ria Money Transfer
+# Mihomo classical text ruleset
+
+# ==================================================
+# Ria core services
+# ==================================================
+
+DOMAIN-SUFFIX,riamoneytransfer.com
+DOMAIN,com.ria.riamoneytransfer
+
+
+# ==================================================
+# Application services
+# ==================================================
+
+DOMAIN,api.segment.io
+DOMAIN,cdn.segment.com
+DOMAIN,cdn-settings.segment.com
+DOMAIN,api.iterable.com
+DOMAIN,api.amplitude.com
+DOMAIN,cdn.branch.io
+DOMAIN,api2.branch.io
