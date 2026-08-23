@@ -1,0 +1,34 @@
+# X / Twitter
+# Mihomo classical text ruleset
+
+# Current X domains
+DOMAIN-SUFFIX,x.com
+
+# Twitter core and media
+DOMAIN-SUFFIX,twitter.com
+DOMAIN-SUFFIX,twimg.com
+DOMAIN-SUFFIX,t.co
+DOMAIN-SUFFIX,twvid.com
+DOMAIN-SUFFIX,twtrdns.net
+DOMAIN-SUFFIX,twttr.com
+DOMAIN-SUFFIX,twttr.net
+
+# Twitter services
+DOMAIN-SUFFIX,tweetdeck.com
+DOMAIN-SUFFIX,twitteroauth.com
+DOMAIN-SUFFIX,twittercommunity.com
+DOMAIN-SUFFIX,twitterstat.us
+DOMAIN-SUFFIX,twitterinc.com
+DOMAIN-SUFFIX,twitter.biz
+DOMAIN-SUFFIX,twitter.jp
+DOMAIN-SUFFIX,twitter.map.fastly.net
+
+# Media and legacy services
+DOMAIN-SUFFIX,ads-twitter.com
+DOMAIN-SUFFIX,cms-twdigitalassets.com
+DOMAIN-SUFFIX,periscope.tv
+DOMAIN-SUFFIX,pscp.tv
+DOMAIN-SUFFIX,twitpic.com
+DOMAIN-SUFFIX,twitterflightschool.com
+DOMAIN-SUFFIX,tellapart.com
+DOMAIN-SUFFIX,vine.co
