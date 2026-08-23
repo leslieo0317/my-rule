@@ -1,0 +1,22 @@
+# Philippines VoWiFi
+# Globe / Smart / DITO
+
+DOMAIN-SUFFIX,epdg.epc.mnc001.mcc515.pub.3gppnetwork.org
+DOMAIN-SUFFIX,epdg.epc.mnc002.mcc515.pub.3gppnetwork.org
+DOMAIN,epdg.epc.mnc003.mcc515.pub.3gppnetwork.org
+DOMAIN,sos.epdg.epc.mnc003.mcc515.pub.3gppnetwork.org
+DOMAIN-SUFFIX,weconnect.globe.com.ph
+
+IP-CIDR,124.6.181.102/32,no-resolve
+IP-CIDR,124.6.181.0/24,no-resolve
+
+DOMAIN,epdg.epc.mnc066.mcc515.pub.3gppnetwork.org
+DOMAIN,sos.epdg.epc.mnc066.mcc515.pub.3gppnetwork.org
+DOMAIN-KEYWORD,mcc515.pub.3gppnetwork.org
+DOMAIN-KEYWORD,epdg.epc.mnc004.mcc204.pub.3gppnetwork.org
+
+IP-CIDR,203.87.172.0/24,no-resolve
+IP-CIDR,121.54.55.0/24,no-resolve
+IP-CIDR,112.198.111.0/24,no-resolve
+IP-CIDR,131.226.92.0/24,no-resolve
+IP-CIDR,131.226.94.0/24,no-resolve
