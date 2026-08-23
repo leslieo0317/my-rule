@@ -1,0 +1,53 @@
+# Philippines Finance Platforms
+
+# DITO
+DOMAIN-SUFFIX,dito.ph
+DOMAIN-KEYWORD,ditotelecom
+
+# Coins.ph
+DOMAIN-SUFFIX,coins.ph
+DOMAIN-KEYWORD,coins
+DOMAIN-KEYWORD,coinsph
+DOMAIN-KEYWORD,coinsapp
+
+# MEXC
+DOMAIN-SUFFIX,mexc.com
+DOMAIN-SUFFIX,mexc.co
+DOMAIN-SUFFIX,mexc.fm
+DOMAIN-SUFFIX,mexcapp.com
+DOMAIN-KEYWORD,mexc
+
+# MEXC related infrastructure
+DOMAIN-SUFFIX,greentreeone.com
+DOMAIN-SUFFIX,mocortech.com
+DOMAIN-SUFFIX,engagelab.cc
+DOMAIN-SUFFIX,lbkrs.com
+DOMAIN-SUFFIX,appsflyersdk.com
+DOMAIN-SUFFIX,geetest.com
+DOMAIN,molor-app-logs-default.ap-southeast-1.log.aliyuncs.com
+DOMAIN,molor-app-performance-project.ap-southeast-1.log.aliyuncs.com
+DOMAIN-SUFFIX,gotoda.co
+DOMAIN,www.dgshen.com
+DOMAIN,www.hotbookzone.com
+DOMAIN,www.flytogarden.com
+DOMAIN,www.coldbookfly.ru
+IP-CIDR,190.92.208.115/32,no-resolve
+IP-CIDR,166.108.204.224/32,no-resolve
+
+# Globe
+DOMAIN-SUFFIX,globe.com.ph
+DOMAIN-SUFFIX,lfgofam.com
+DOMAIN-SUFFIX,zimperium.com
+DOMAIN-SUFFIX,whappsflyer.com
+DOMAIN-SUFFIX,liveperson.net
+
+# Maya / PayMaya
+DOMAIN-SUFFIX,paymaya.com
+DOMAIN-SUFFIX,maya.ph
+DOMAIN-SUFFIX,mayabank.ph
+DOMAIN-SUFFIX,voyagerapis.com
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,clevertap-prod.com
+DOMAIN-SUFFIX,sendbird.com
+DOMAIN-SUFFIX,cloudfront.net
+DOMAIN-SUFFIX,s3.ap-southeast-1.amazonaws.com
