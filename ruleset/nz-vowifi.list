@@ -1,0 +1,10 @@
+# New Zealand VoWiFi
+
+DOMAIN-SUFFIX,mnc005.mcc530.pub.3gppnetwork.org
+DOMAIN-SUFFIX,epdg.ims.2degrees.net.nz
+IP-CIDR,118.148.0.0/15,no-resolve
+
+DOMAIN-SUFFIX,epdg.epc.mnc001.mcc530.pub.3gppnetwork.org
+IP-CIDR,122.63.255.109/32,no-resolve
+IP-CIDR,122.63.255.112/32,no-resolve
+IP-CIDR,122.63.255.115/32,no-resolve
