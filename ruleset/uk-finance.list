@@ -1,0 +1,79 @@
+# UK Finance Platforms
+
+# Trading 212
+DOMAIN-SUFFIX,trading212.com
+DOMAIN-SUFFIX,t212.com
+DOMAIN-SUFFIX,trading212.io
+DOMAIN-SUFFIX,t212.io
+DOMAIN-KEYWORD,trading212
+DOMAIN-KEYWORD,uzt46p
+
+# Kraken
+DOMAIN-SUFFIX,kraken.com
+DOMAIN-SUFFIX,kraken.org
+DOMAIN-SUFFIX,krak.com
+DOMAIN-KEYWORD,kraken
+DOMAIN-KEYWORD,krak
+
+# N26
+DOMAIN-SUFFIX,n26.com
+DOMAIN-KEYWORD,n26
+DOMAIN-KEYWORD,tech26
+DOMAIN-KEYWORD,number26
+
+# Plasma
+DOMAIN-SUFFIX,plasma-one.tech
+DOMAIN-SUFFIX,plasma.to
+DOMAIN,auth.privy.io
+DOMAIN,api.knock.app
+DOMAIN,e91fqnw0-android.mobile-messenger.intercom.com
+DOMAIN,nexus-websocket-a.intercom.io
+DOMAIN,u.expo.dev
+DOMAIN,o.expo.dev
+DOMAIN,pnycql.cdn-settings.appsflyersdk.com
+DOMAIN,pnycql.launches.appsflyersdk.com
+DOMAIN,o4509875443204096.ingest.de.sentry.io
+
+# Ether.fi
+DOMAIN-SUFFIX,ether.fi
+
+# TapTap Send
+DOMAIN-SUFFIX,taptapsend.com
+DOMAIN-SUFFIX,taptapsend.zendesk.com
+DOMAIN-SUFFIX,marqeta.com
+DOMAIN-SUFFIX,siftscience.com
+DOMAIN-SUFFIX,mixpanel.com
+DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,datadoghq.com
+DOMAIN,ipapi.co
+
+# Sendwave
+DOMAIN-SUFFIX,sendwave.com
+DOMAIN-SUFFIX,riskified.com
+DOMAIN-SUFFIX,incognia.com
+DOMAIN-SUFFIX,connect.us-west-2.amazonaws.com
+DOMAIN-SUFFIX,sendwave-public-assets.s3.us-east-1.amazonaws.com
+
+# Plum
+DOMAIN-SUFFIX,withplum.com
+DOMAIN-SUFFIX,intercom.com
+DOMAIN-SUFFIX,intercom.io
+DOMAIN-SUFFIX,appsflyer.com
+DOMAIN-SUFFIX,appsflyersdk.com
+DOMAIN-SUFFIX,lokalise.com
+DOMAIN,firebaseremoteconfig.googleapis.com
+DOMAIN,firebaselogging-pa.googleapis.com
+
+# LemFi
+DOMAIN-KEYWORD,lemfi
+DOMAIN-KEYWORD,lemonade
+DOMAIN-SUFFIX,lemonade.finance
+DOMAIN-SUFFIX,lemfi.com
+DOMAIN,lemfi-campaign-store-production.firebaseio.com
+DOMAIN,s-gke-usc1-nssi3-52.firebaseio.com
+DOMAIN,d25pgg2j8r55ac.cloudfront.net
+DOMAIN,d3ndoq90b1auyv.cloudfront.net
+DOMAIN,htrkqz.cdn-settings.appsflyersdk.com
+DOMAIN,htrkqz.launches.appsflyersdk.com
+DOMAIN,o4509826029518848.ingest.de.sentry.io
+DOMAIN,lemonadefinancehelp.zendesk.com
