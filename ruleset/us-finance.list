@@ -1,0 +1,55 @@
+# United States Finance Platforms
+# Sources: Pangea, WorldRemit and MoneyGram traffic captures
+
+# ==================================================
+# Pangea
+# ==================================================
+
+DOMAIN-SUFFIX,gopangea.com
+DOMAIN,o314412.ingest.us.sentry.io
+DOMAIN,graph.facebook.com
+DOMAIN,api.statsig.com
+DOMAIN,api.mixpanel.com
+DOMAIN,api.iterable.com
+DOMAIN,c.riskified.com
+DOMAIN,img.riskified.com
+DOMAIN,eodwmk-launches.appsflyersdk.com
+DOMAIN,firebase-settings.crashlytics.com
+DOMAIN,firebaselogging-pa.googleapis.com
+DOMAIN,icanhazip.com
+DOMAIN,quickchart.io
+
+# ==================================================
+# WorldRemit
+# ==================================================
+
+DOMAIN-SUFFIX,worldremit.com
+DOMAIN,sdk.fra-01.braze.eu
+DOMAIN,cdn.braze.eu
+DOMAIN,yhtqhv.launches.appsflyersdk.com
+DOMAIN,yhtqhv.inapps.appsflyersdk.com
+DOMAIN,yhtqhv.gcdsdk.appsflyersdk.com
+DOMAIN,yhtqhv.conversions.appsflyersdk.com
+DOMAIN,crashlyticsreports-pa.googleapis.com
+DOMAIN,service2.us.incognia.com
+DOMAIN,px-conf.perimeterx.net
+DOMAIN,collector-pxgm4fv3vc.perimeterx.net
+DOMAIN,firebaseremoteconfig.googleapis.com
+DOMAIN,aws-gate.licelus.com
+DOMAIN,api64.ipify.org
+DOMAIN,mobile-data.onetrust.io
+
+# ==================================================
+# MoneyGram
+# ==================================================
+
+DOMAIN-SUFFIX,moneygram.com
+DOMAIN,o4509507145826304.ingest.us.sentry.io
+DOMAIN,thpuxh.inapps.appsflyersdk.com
+DOMAIN,thpuxh.launches.appsflyersdk.com
+DOMAIN,api.authsignal.com
+DOMAIN,app.zetaglobal.net
+DOMAIN,distributions.crowdin.net
+DOMAIN,exp.host
+DOMAIN,u.expo.dev
+DOMAIN,zqpa2.us-east2.aws.oscilar.com
