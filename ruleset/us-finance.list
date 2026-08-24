@@ -53,3 +53,5 @@ DOMAIN,distributions.crowdin.net
 DOMAIN,exp.host
 DOMAIN,u.expo.dev
 DOMAIN,zqpa2.us-east2.aws.oscilar.com
+# Liberty edu
+DOMAIN-SUFFIX,liberty.edu
