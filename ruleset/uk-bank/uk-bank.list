@@ -1,3 +1,4 @@
+#HSBC UK
 DOMAIN-SUFFIX,hsbc.co.uk
 DOMAIN,hsbc.edge.sdk.awswaf.com
 DOMAIN-SUFFIX,online-metrix.net
@@ -19,3 +20,21 @@ DOMAIN,log-beed83c9.eu.v2.we-stats.com
 DOMAIN,api.zaius.com
 DOMAIN,cdn.optimizely.com
 DOMAIN,rum.hlx.page
+
+# PayPal UK
+DOMAIN-SUFFIX,paypal.com
+DOMAIN-SUFFIX,paypalobjects.com
+DOMAIN-SUFFIX,paypal-ads.com
+DOMAIN-SUFFIX,xoom.com
+DOMAIN-SUFFIX,tink.se
+DOMAIN-SUFFIX,joinhoney.com
+DOMAIN-SUFFIX,honey.io
+DOMAIN-SUFFIX,dyneti.com
+DOMAIN-SUFFIX,adjust.com
+DOMAIN-SUFFIX,segment.com
+DOMAIN-SUFFIX,datadoghq.com
+DOMAIN-SUFFIX,datadoghq-browser-agent.com
+DOMAIN-SUFFIX,statsigapi.net
+DOMAIN-SUFFIX,recaptcha.net
+DOMAIN-SUFFIX,gstatic.com
+DOMAIN,assetsconfigcdn.org
