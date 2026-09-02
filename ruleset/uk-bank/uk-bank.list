@@ -38,3 +38,15 @@ DOMAIN-SUFFIX,statsigapi.net
 DOMAIN-SUFFIX,recaptcha.net
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN,assetsconfigcdn.org
+
+# Altery UK
+DOMAIN-SUFFIX,altery.com
+DOMAIN-SUFFIX,appsflyersdk.com
+DOMAIN-SUFFIX,zendesk.com
+DOMAIN-SUFFIX,smooch.io
+DOMAIN-SUFFIX,lokalise.com
+DOMAIN-SUFFIX,mixpanel.com
+DOMAIN-SUFFIX,triple.app
+DOMAIN,track.hubspot.com
+DOMAIN,www.clarity.ms
+DOMAIN,px.ads.linkedin.com
