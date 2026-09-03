@@ -1,0 +1,36 @@
+# 国内 APP：闲鱼、淘宝、支付宝、美团
+# 根据网络连接记录整理
+
+# 闲鱼、淘宝及阿里共享服务
+DOMAIN-SUFFIX,goofish.com
+DOMAIN-SUFFIX,taobao.com
+DOMAIN-SUFFIX,alicdn.com
+DOMAIN-SUFFIX,alibaba.com
+DOMAIN-SUFFIX,alibaba-inc.com
+DOMAIN-SUFFIX,alibabachengdun.com
+DOMAIN-SUFFIX,alibabausercontent.com
+DOMAIN-SUFFIX,aliapp.org
+DOMAIN-SUFFIX,mmstat.com
+DOMAIN-SUFFIX,uc.cn
+DOMAIN-SUFFIX,ucweb.com
+
+# 支付宝及高德
+DOMAIN-SUFFIX,alipay.com
+DOMAIN-SUFFIX,alipay.com.cn
+DOMAIN-SUFFIX,alipayobjects.com
+DOMAIN-SUFFIX,amap.com
+
+# 淘宝内置饿了么服务
+DOMAIN-SUFFIX,ele.me
+DOMAIN-SUFFIX,elemecdn.com
+
+# 美团、点评及相关服务
+DOMAIN-SUFFIX,meituan.com
+DOMAIN-SUFFIX,meituan.net
+DOMAIN-SUFFIX,dianping.com
+DOMAIN-SUFFIX,sankuai.com
+DOMAIN-SUFFIX,neixin.cn
+DOMAIN-SUFFIX,mykeeta.com
+DOMAIN-SUFFIX,maoyan.com
+DOMAIN-SUFFIX,pipi.cn
+DOMAIN-SUFFIX,dpfile.com
