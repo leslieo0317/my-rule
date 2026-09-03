@@ -50,3 +50,20 @@ DOMAIN-SUFFIX,triple.app
 DOMAIN,track.hubspot.com
 DOMAIN,www.clarity.ms
 DOMAIN,px.ads.linkedin.com
+
+# Lloyds Bank
+DOMAIN-SUFFIX,lloydsbank.co.uk
+DOMAIN-SUFFIX,lloydsbanking.com
+DOMAIN-SUFFIX,lloydsbankinggroup.com
+DOMAIN-SUFFIX,dynatrace.com
+DOMAIN-SUFFIX,adobedtm.com
+DOMAIN-SUFFIX,demdex.net
+DOMAIN-SUFFIX,omtrdc.net
+DOMAIN-SUFFIX,tealiumiq.com
+DOMAIN-SUFFIX,tiqcdn.com
+DOMAIN-SUFFIX,cjteradata.com
+DOMAIN-SUFFIX,lpsnmedia.net
+DOMAIN-SUFFIX,liveperson.net
+DOMAIN-SUFFIX,qualtrics.com
+DOMAIN,lp-07.asynchronousmessaging.dashboard.co.uk
+DOMAIN,ocsp.digicert.com
