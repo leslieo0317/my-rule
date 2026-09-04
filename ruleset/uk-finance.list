@@ -61,22 +61,6 @@ DOMAIN-SUFFIX,intercom.io
 DOMAIN-SUFFIX,appsflyer.com
 DOMAIN-SUFFIX,appsflyersdk.com
 DOMAIN-SUFFIX,lokalise.com
-DOMAIN,firebaseremoteconfig.googleapis.com
-DOMAIN,firebaselogging-pa.googleapis.com
-
-# LemFi
-DOMAIN-KEYWORD,lemfi
-DOMAIN-KEYWORD,lemonade
-DOMAIN-SUFFIX,lemonade.finance
-DOMAIN-SUFFIX,lemfi.com
-DOMAIN,lemfi-campaign-store-production.firebaseio.com
-DOMAIN,s-gke-usc1-nssi3-52.firebaseio.com
-DOMAIN,d25pgg2j8r55ac.cloudfront.net
-DOMAIN,d3ndoq90b1auyv.cloudfront.net
-DOMAIN,htrkqz.cdn-settings.appsflyersdk.com
-DOMAIN,htrkqz.launches.appsflyersdk.com
-DOMAIN,o4509826029518848.ingest.de.sentry.io
-DOMAIN,lemonadefinancehelp.zendesk.com
 
 # Freetrade
 DOMAIN-SUFFIX,freetrade.io
