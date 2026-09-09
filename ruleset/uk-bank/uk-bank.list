@@ -81,3 +81,34 @@ DOMAIN,htrkqz.cdn-settings.appsflyersdk.com
 DOMAIN,htrkqz.launches.appsflyersdk.com
 DOMAIN,o4509826029518848.ingest.de.sentry.io
 DOMAIN,lemonadefinancehelp.zendesk.com
+
+# Yonder / Yonder Card
+# Official
+DOMAIN-SUFFIX,yonder.com
+DOMAIN-SUFFIX,yondercard.com
+DOMAIN,cdn.prod.website-files.com
+# Card / Risk
+DOMAIN-SUFFIX,marqeta.com
+DOMAIN-SUFFIX,sardine.ai
+# Content
+DOMAIN-SUFFIX,datocms.com
+DOMAIN-SUFFIX,datocms-assets.com
+# Support
+DOMAIN,tcqe0qwu-android.mobile-messenger.eu.intercom.io
+DOMAIN,nexus-europe-websocket.intercom.io
+# SDK / Deep Link
+DOMAIN,sdk.fra-01.braze.eu
+DOMAIN,u.expo.dev
+# Analytics
+DOMAIN,sdk-api-v1.singular.net
+DOMAIN,o4507463578615808.ingest.de.sentry.io
+DOMAIN,o438986.ingest.sentry.io
+DOMAIN,logs.browser-intake-datadoghq.com
+# Typeform
+DOMAIN,yonderteam.typeform.com
+DOMAIN,images.typeform.com
+DOMAIN,renderer-assets.typeform.com
+DOMAIN,tracking.typeform.com
+# Web Assets
+DOMAIN,unpkg.com
+DOMAIN,use.typekit.net
