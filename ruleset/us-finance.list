@@ -55,3 +55,14 @@ DOMAIN,u.expo.dev
 DOMAIN,zqpa2.us-east2.aws.oscilar.com
 # Liberty edu
 DOMAIN-SUFFIX,liberty.edu
+
+#Majority
+DOMAIN-SUFFIX,majority.com
+DOMAIN-SUFFIX,minority.com
+DOMAIN,majority-production.firebaseio.com
+DOMAIN,s-gke-usc1-nssi3-19.firebaseio.com
+DOMAIN,na79w0by-android.mobile-messenger.intercom.com
+DOMAIN,dust.k8s.cluster-005.p-use-1.braze.com
+DOMAIN,o330938.ingest.us.sentry.io
+DOMAIN,kard-merchants.s3.us-east-1.amazonaws.com
+DOMAIN,minority.imgix.net
