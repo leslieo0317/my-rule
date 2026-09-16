@@ -74,3 +74,27 @@ DOMAIN-SUFFIX,lokalise.com
 DOMAIN-SUFFIX,braze.eu
 DOMAIN-SUFFIX,algolia.net
 DOMAIN-SUFFIX,storyblok.com
+
+# Pulsar Money UK
+# Package: money.pulsar.app
+# Pulsar
+DOMAIN-SUFFIX,pulsar.money
+# Authentication / Wallet
+DOMAIN,auth.privy.io
+DOMAIN,api-baas.wirexapp.com
+DOMAIN,api.rhino.fi
+DOMAIN,wirex-arc-mainnet-01.zeeve.net
+# Push / Subscription
+DOMAIN,api.onesignal.com
+DOMAIN,api.revenuecat.com
+# Intercom
+DOMAIN,wmoasn15-android.mobile-messenger.intercom.com
+DOMAIN,nexus-websocket-a.intercom.io
+DOMAIN,static.intercomassets.com
+# Expo
+DOMAIN,u.expo.dev
+DOMAIN,o.expo.dev
+# Telemetry / Analytics
+DOMAIN,o4506701327106048.ingest.us.sentry.io
+DOMAIN,us.i.posthog.com
+DOMAIN,us-assets.i.posthog.com
