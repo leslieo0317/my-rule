@@ -1,0 +1,8 @@
+# bunq
+DOMAIN-SUFFIX,bunq.com
+# bunq 风控 / 设备识别
+DOMAIN-SUFFIX,sardine.ai
+# bunq 模型/静态资源
+DOMAIN,bunq-prod-model-storage-public.s3.eu-central-1.amazonaws.com
+# Sentry 错误上报
+DOMAIN,o438986.ingest.sentry.io
