@@ -112,3 +112,35 @@ DOMAIN,tracking.typeform.com
 # Web Assets
 DOMAIN,unpkg.com
 DOMAIN,use.typekit.net
+
+
+# Chase UK
+# Captured from Android package: com.chase.intl
+# Chase 官方域名
+DOMAIN-SUFFIX,chase.co.uk
+# AppsFlyer
+DOMAIN,fpxhcc.inapps.appsflyersdk.com
+DOMAIN,fpxhcc.launches.appsflyersdk.com
+# mParticle
+DOMAIN,nativesdks.mparticle.com
+DOMAIN,config2.mparticle.com
+DOMAIN,identity.mparticle.com
+# MoEngage
+DOMAIN,sdk-02.moengage.com
+# AWS Connect
+DOMAIN,tufsuyburufn.transport.connect.eu-central-1.amazonaws.com
+# Zimperium 风控 / 设备安全
+DOMAIN,mpi-prod.zimperium.com
+DOMAIN,cdn.zimperium.com
+DOMAIN,edge.zimperium.com
+DOMAIN,mpiprod-cdn.zimperium.com
+# Online Metrix / ThreatMetrix 风控
+DOMAIN,eu-aa.online-metrix.net
+DOMAIN,h64.online-metrix.net
+DOMAIN-SUFFIX,aa.online-metrix.net
+# Split.io
+DOMAIN,auth.split.io
+DOMAIN,streaming.split.io
+# Backtrace
+DOMAIN,events.backtrace.io
+DOMAIN,submit.backtrace.io
