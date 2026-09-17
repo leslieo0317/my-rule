@@ -1,2 +1,15 @@
 # Wise
 DOMAIN-SUFFIX,wise.com
+
+# iFAST GB
+DOMAIN-SUFFIX,ifastgb.com
+DOMAIN-SUFFIX,fundsupermart.com
+DOMAIN-SUFFIX,fsm.global
+DOMAIN-SUFFIX,ifastglobalview.com
+# iFAST Communication
+DOMAIN,communication-services-igb-ai-cs-prod.uk.communication.azure.com
+# iFAST App Security - Zimperium
+DOMAIN,eu01.zimperium.com
+DOMAIN,cdn.zimperium.com
+DOMAIN,edge.zimperium.com
+DOMAIN,eu01-cdn.zimperium.com
