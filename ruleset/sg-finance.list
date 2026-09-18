@@ -8,30 +8,3 @@ DOMAIN-SUFFIX,pandaremit.com
 DOMAIN-SUFFIX,wotransfer.com
 # GeeTest verification
 DOMAIN,static.geetest.com
-
-# =========================
-# Binance
-# Package: com.binance.dev
-# =========================
-# Binance Core
-DOMAIN-SUFFIX,binance.com
-DOMAIN-SUFFIX,binance.info
-# Binance API / Alternate Domains
-DOMAIN-SUFFIX,saasexch.info
-DOMAIN-SUFFIX,saasexch.com
-DOMAIN-SUFFIX,saasexch.co
-DOMAIN-SUFFIX,bnappweb.blue
-# Binance CDN / Static
-DOMAIN-SUFFIX,bscdnweb.com
-DOMAIN-SUFFIX,bnbstatic.com
-
-# =========================
-# OKX
-# =========================
-# Core
-DOMAIN-SUFFIX,okx.com
-DOMAIN-SUFFIX,okx.cab
-DOMAIN-SUFFIX,coinall.ltd
-DOMAIN-SUFFIX,cnouyi.pizza
-# App Security
-DOMAIN,okg.threatcast.guardsquare.com
