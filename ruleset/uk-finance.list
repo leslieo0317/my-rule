@@ -98,3 +98,21 @@ DOMAIN,o.expo.dev
 DOMAIN,o4506701327106048.ingest.us.sentry.io
 DOMAIN,us.i.posthog.com
 DOMAIN,us-assets.i.posthog.com
+
+# =========================
+# WorldFirst UK
+# Package: com.worldfirst.mobile
+# =========================
+# WorldFirst Core
+DOMAIN-SUFFIX,worldfirst.com
+DOMAIN-SUFFIX,worldfirst.com.cn
+# Ant / WorldFirst Infrastructure
+DOMAIN,cdn.marmot-cloud.com
+DOMAIN,ac.alipay.com
+DOMAIN,imdap-de.alipay.com
+DOMAIN,imdap-sea.alipay.com
+DOMAIN,mass.alipay.com
+DOMAIN,ns4.alipay.com
+DOMAIN,gw.alipayobjects.com
+DOMAIN,gw-intl.alipayobjects.com
+DOMAIN,worldfirst-app-alipw3sg-default.alipayplus-amcs.com
