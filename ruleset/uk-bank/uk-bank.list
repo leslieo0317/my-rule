@@ -144,3 +144,14 @@ DOMAIN,streaming.split.io
 # Backtrace
 DOMAIN,events.backtrace.io
 DOMAIN,submit.backtrace.io
+
+# =========================
+# Zilch UK
+# Package: com.payzilch.app
+# =========================
+# Zilch Core
+DOMAIN-SUFFIX,payzilch.com
+# Card / Tokenisation - MeaWallet
+DOMAIN,mpp.prd.meawallet.app
+# Card Data / VGS
+DOMAIN,vgs-collect-keeper.apps.verygood.systems
