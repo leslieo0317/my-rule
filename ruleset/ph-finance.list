@@ -120,3 +120,31 @@ IP-CIDR,8.212.117.80/32,no-resolve
 IP-CIDR,8.223.13.254/32,no-resolve
 IP-CIDR,8.223.13.45/32,no-resolve
 IP-CIDR,8.223.3.232/32,no-resolve
+
+# =========================
+# Binance
+# Package: com.binance.dev
+# =========================
+# Binance Core
+DOMAIN-SUFFIX,binance.com
+DOMAIN-SUFFIX,binance.info
+# Binance API / Alternate Domains
+DOMAIN-SUFFIX,saasexch.info
+DOMAIN-SUFFIX,saasexch.com
+DOMAIN-SUFFIX,saasexch.co
+DOMAIN-SUFFIX,bnappweb.blue
+# Binance CDN / Static
+DOMAIN-SUFFIX,bscdnweb.com
+DOMAIN-SUFFIX,bnbstatic.com
+
+# =========================
+# OKX
+# =========================
+# Core
+DOMAIN-SUFFIX,okx.com
+DOMAIN-SUFFIX,okx.cab
+DOMAIN-SUFFIX,coinall.ltd
+DOMAIN-SUFFIX,cnouyi.pizza
+# App Security
+DOMAIN,okg.threatcast.guardsquare.com
+
