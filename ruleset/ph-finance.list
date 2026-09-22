@@ -148,3 +148,12 @@ DOMAIN-SUFFIX,cnouyi.pizza
 # App Security
 DOMAIN,okg.threatcast.guardsquare.com
 
+# =========================
+# Security Bank Philippines
+# App: com.secbankv3.mobile
+# =========================
+# Mobile App / API
+DOMAIN-SUFFIX,secbank.ph
+# Official Website / Online Banking
+DOMAIN-SUFFIX,securitybank.com
+DOMAIN-SUFFIX,securitybank.com.ph
