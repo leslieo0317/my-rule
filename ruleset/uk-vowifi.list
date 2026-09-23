@@ -45,3 +45,6 @@ IP-CIDR,62.141.11.56/24,no-resolve
 # Lebara UK Wi-Fi Calling / VoWiFi
 DOMAIN,epdg.epc.mnc087.mcc234.pub.3gppnetwork.org
 DOMAIN-SUFFIX,mnc087.mcc234.pub.3gppnetwork.org
+
+IP-CIDR,46.68.0.0/17,no-resolve
+IP-CIDR,31.94.0.0/16,no-resolve
