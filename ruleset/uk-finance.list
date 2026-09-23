@@ -125,3 +125,12 @@ DOMAIN,worldfirst-app-alipw3sg-default.alipayplus-amcs.com
 DOMAIN-SUFFIX,transfergo.com
 # Customer Support
 DOMAIN,transfergo.zendesk.com
+
+# =========================
+# TopCashback UK
+# Package: uk.co.topcashback.topcashback
+# =========================
+# Official Website / App API
+DOMAIN-SUFFIX,topcashback.co.uk
+# TopCashback CDN
+DOMAIN-SUFFIX,tcb-cdn.com
