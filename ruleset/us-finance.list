@@ -67,5 +67,15 @@ DOMAIN,o330938.ingest.us.sentry.io
 DOMAIN,kard-merchants.s3.us-east-1.amazonaws.com
 DOMAIN,minority.imgix.net
 
-# Muse AI
-DOMAIN-SUFFIX,muse.ai
+# =========================
+# Muse AI / Meta AI
+# Package: com.facebook.aura
+# =========================
+# Muse / Meta AI Core
+DOMAIN-SUFFIX,metaaivm.com
+DOMAIN-SUFFIX,meta.ai
+# Meta API
+DOMAIN,graph.facebook.com
+DOMAIN,b-www.facebook.com
+# Meta CDN
+DOMAIN-SUFFIX,fbcdn.net
