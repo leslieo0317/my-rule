@@ -139,7 +139,8 @@ DOMAIN-SUFFIX,tcb-cdn.com
 # Xiaohongshu / RedNote
 # Package: com.xingin.xhs
 # =========================
-# Xiaohongshu Core / API / Website
 DOMAIN-SUFFIX,xiaohongshu.com
-# Xiaohongshu CDN
 DOMAIN-SUFFIX,xhscdn.com
+DOMAIN-SUFFIX,xhscdn.net
+DOMAIN-SUFFIX,xhslink.com
+DOMAIN-SUFFIX,xhs.cn
