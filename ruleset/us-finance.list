@@ -66,3 +66,6 @@ DOMAIN,dust.k8s.cluster-005.p-use-1.braze.com
 DOMAIN,o330938.ingest.us.sentry.io
 DOMAIN,kard-merchants.s3.us-east-1.amazonaws.com
 DOMAIN,minority.imgix.net
+
+# Muse AI
+DOMAIN-SUFFIX,muse.ai
