@@ -155,3 +155,6 @@ DOMAIN-SUFFIX,lava.xyz
 DOMAIN,grpcweb.mainnet.lava.xyz
 # Card / Wallet infrastructure
 DOMAIN,mpp.prd.meawallet.app
+
+# Uphold UK
+DOMAIN-SUFFIX,uphold.com
