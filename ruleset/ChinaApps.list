@@ -35,70 +35,69 @@ DOMAIN-SUFFIX,maoyan.com
 DOMAIN-SUFFIX,pipi.cn
 DOMAIN-SUFFIX,dpfile.com
 
-# ==================== 众安银行 ZA Bank ====================
+# 众安银行 ZA Bank
 DOMAIN-SUFFIX,za.group
 DOMAIN-SUFFIX,zainvest.group
 DOMAIN-SUFFIX,zajourney.com
 DOMAIN-SUFFIX,zaticdn.com
-DOMAIN,file.roadshowing.com
-DOMAIN,ir-sdk.guardease.com
 DOMAIN,sp.zacdn.cn
 DOMAIN,static.zhongan.com
+DOMAIN,ir-sdk.guardease.com
 
-# ==================== 汇丰香港 HSBC HK ====================
+# 汇丰香港 HSBC HK
 DOMAIN-SUFFIX,hsbc.com.hk
-DOMAIN,aa.online-metrix.net
-DOMAIN,c-hsbc.lytics.io
 DOMAIN,eapi.preferences.prod.ap-east-1.vam-hk.cloud1.vv1865.com
-DOMAIN,h64.online-metrix.net
-DOMAIN,hsbc.edge.sdk.awswaf.com
 DOMAIN,messaging.prod.ap-east-1.vam-hk.cloud1.vv1865.com
-
-# ==================== 恒生银行 Hang Seng ====================
-DOMAIN-SUFFIX,hangseng.com
+DOMAIN,hsbc.edge.sdk.awswaf.com
 DOMAIN,aa.online-metrix.net
 DOMAIN,h64.online-metrix.net
-DOMAIN,hsbc.edge.sdk.awswaf.com
-DOMAIN,hsbc.md-apis.medallia.com
-DOMAIN,rbwm-api.hsbc.com.hk
+DOMAIN-SUFFIX,d.aa.online-metrix.net
 
-# ==================== 蚂蚁银行 Ant Bank HK ====================
+# 恒生银行 Hang Seng
+DOMAIN-SUFFIX,hangseng.com
+DOMAIN,rbwm-api.hsbc.com.hk
+DOMAIN,hsbc.edge.sdk.awswaf.com
+DOMAIN,aa.online-metrix.net
+DOMAIN,h64.online-metrix.net
+DOMAIN-SUFFIX,d.aa.online-metrix.net
+
+# 蚂蚁银行 Ant Bank HK
 DOMAIN-SUFFIX,antbank.hk
-DOMAIN,a.alipayobjects.com
 DOMAIN,ant-hkbank-linkd.cn-hongkong.log.aliyuncs.com
 DOMAIN,antbank-cdn.marmot-cloud.com
-DOMAIN,as.alipayobjects.com
-DOMAIN,bailingual.marmot-cloud.com
-DOMAIN,cdn.marmot-cloud.com
 DOMAIN,cloudauth-device.ap-southeast-1.aliyuncs.com
-DOMAIN,gw.alipayobjects.com
-DOMAIN,ikcart.alipay.com
-DOMAIN,imdap-sea.alipay.com
-DOMAIN,mdap.mpaas.cn-hongkong.aliyuncs.com
-DOMAIN,mdn.alipayobjects.com
 DOMAIN,mgw.mpaas.cn-hongkong.aliyuncs.com
 DOMAIN,msync.mpaas.cn-hongkong.aliyuncs.com
-DOMAIN,os.alipayobjects.com
 DOMAIN,push.mpaas.cn-hongkong.aliyuncs.com
+DOMAIN,mdap.mpaas.cn-hongkong.aliyuncs.com
+DOMAIN,imdap-sea.alipay.com
 DOMAIN,render.alipay.com
 DOMAIN,render.alipay.hk
+DOMAIN,ikcart.alipay.com
+DOMAIN,gw.alipayobjects.com
+DOMAIN,as.alipayobjects.com
+DOMAIN,os.alipayobjects.com
+DOMAIN,mdn.alipayobjects.com
+DOMAIN,a.alipayobjects.com
+DOMAIN,cdn.marmot-cloud.com
 DOMAIN,sdk.marmot-cloud.com
+DOMAIN,bailingual.marmot-cloud.com
 
-# ==================== 中银香港 BOCHK ====================
+# 中银香港 BOCHK
 DOMAIN-SUFFIX,bochk.com
 DOMAIN,bochk01.etnet.com.hk
 DOMAIN,bochk02.etnet.com.hk
 
-# ==================== 平安数字银行 PAO Bank ====================
+# 平安数字银行 PAO Bank
 DOMAIN-SUFFIX,paob.com.hk
 DOMAIN-SUFFIX,pingandb.com
-DOMAIN,account-baas.itigertech.com
-DOMAIN,app-gateway-baas.itigertech.com
-DOMAIN,auth-baas.itigertech.com
-DOMAIN,baas-auth.itigertech.com
 DOMAIN,bff-mobile-baas.itigertech.com
-DOMAIN,ma.lu.com
-DOMAIN,mcat.lu.com
+DOMAIN,auth-baas.itigertech.com
 DOMAIN,quote-baas-live.itigertech.com
+DOMAIN,app-gateway-baas.itigertech.com
 DOMAIN,quote-baas.itigertech.com
+DOMAIN,baas-auth.itigertech.com
 DOMAIN,trade-baas-api.itigertech.com
+DOMAIN,account-baas.itigertech.com
+DOMAIN,mcat.lu.com
+DOMAIN,ma.lu.com
