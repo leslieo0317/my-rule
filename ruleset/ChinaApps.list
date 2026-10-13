@@ -103,5 +103,5 @@ DOMAIN,mcat.lu.com
 DOMAIN,ma.lu.com
 
 #建亚
-- DOMAIN-SUFFIX,ccb.com,DIRECT
-- DOMAIN,xc.mp3.ccb.cn,DIRECT
+DOMAIN-SUFFIX,ccb.com
+DOMAIN,xc.mp3.ccb.cn
