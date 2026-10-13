@@ -101,3 +101,7 @@ DOMAIN,trade-baas-api.itigertech.com
 DOMAIN,account-baas.itigertech.com
 DOMAIN,mcat.lu.com
 DOMAIN,ma.lu.com
+
+# 建设银行（亚洲） CCB Asia
+DOMAIN-SUFFIX,ccb.com
+DOMAIN,xc.mp3.ccb.cn
