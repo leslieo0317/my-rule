@@ -85,3 +85,58 @@ DOMAIN,ma.lu.com
 # 建设银行（亚洲） CCB Asia
 DOMAIN-SUFFIX,ccb.com
 DOMAIN,xc.mp3.ccb.cn
+
+# ==================== AlipayHK 支付宝香港 ====================
+DOMAIN-SUFFIX,alipay.hk
+DOMAIN-SUFFIX,alipayhk.com
+# ==================== 支付宝香港业务接口 ====================
+DOMAIN,datagw-edge.alipay.com
+DOMAIN,myh2hk.alipay.com
+DOMAIN,imdap-sea.alipay.com
+DOMAIN,imdap.alipay.com
+DOMAIN,render.alipay.com
+DOMAIN,ac.alipay.com
+DOMAIN,imgs-sea.alipay.com
+DOMAIN,collect.alipay.com
+DOMAIN,mgw.alipay.com
+DOMAIN,icem.alipay.com
+DOMAIN,ur.alipay.com
+DOMAIN,mdap.alipay.com
+DOMAIN,mugw.alipay.com
+DOMAIN,amdc.alipay.com
+DOMAIN,imgs-ac.alipay.com
+# ==================== 支付宝资源及共享组件 ====================
+DOMAIN,gw.alipayobjects.com
+DOMAIN,gw-intl.alipayobjects.com
+DOMAIN,mdn.alipayobjects.com
+DOMAIN,as.alipayobjects.com
+DOMAIN,os.alipayobjects.com
+DOMAIN,dataservice.alipayobjects.com
+DOMAIN,cdn.marmot-cloud.com
+DOMAIN,bailingual.marmot-cloud.com
+DOMAIN,sdk.marmot-cloud.com
+DOMAIN,config.marmot-cloud.com
+DOMAIN,push.mpaas.cn-hongkong.aliyuncs.com
+# ==================== 阿里云 CDN 及统计风控 ====================
+DOMAIN,mdn.alicdn.com
+DOMAIN,at.alicdn.com
+DOMAIN,g.alicdn.com
+DOMAIN,audid-api.taobao.com
+DOMAIN,gm.mmstat.com
+DOMAIN,mum.alibabachengdun.com
+# ==================== 蚂蚁银行关联服务 ====================
+DOMAIN,ant-hkbank-linkd.cn-hongkong.log.aliyuncs.com
+DOMAIN,antbank-cdn.marmot-cloud.com
+DOMAIN,raccoon.antbank.hk
+# ==================== 地图及公共交通服务 ====================
+DOMAIN,o4.amap.com
+DOMAIN,jsapi.amap.com
+DOMAIN,jsapi-data1.amap.com
+DOMAIN,jsapi-data2.amap.com
+DOMAIN,jsapi-data3.amap.com
+DOMAIN,jsapi-data4.amap.com
+DOMAIN,jsapi-data5.amap.com
+DOMAIN,jsapi-service.amap.com
+DOMAIN,webapi.amap.com
+DOMAIN,restapi.amap.com
+DOMAIN,proxy001.api.mtr.com.hk
