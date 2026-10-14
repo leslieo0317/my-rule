@@ -140,3 +140,6 @@ DOMAIN,jsapi-service.amap.com
 DOMAIN,webapi.amap.com
 DOMAIN,restapi.amap.com
 DOMAIN,proxy001.api.mtr.com.hk
+
+# Boc Pay
+DOMAIN,cashbox.boc.cn
