@@ -136,16 +136,6 @@ DOMAIN-SUFFIX,topcashback.co.uk
 DOMAIN-SUFFIX,tcb-cdn.com
 
 # =========================
-# Xiaohongshu / RedNote
-# Package: com.xingin.xhs
-# =========================
-DOMAIN-SUFFIX,xiaohongshu.com
-DOMAIN-SUFFIX,xhscdn.com
-DOMAIN-SUFFIX,xhscdn.net
-DOMAIN-SUFFIX,xhslink.com
-DOMAIN-SUFFIX,xhs.cn
-
-# =========================
 # Lava
 # Package: com.lavamobile
 # =========================
