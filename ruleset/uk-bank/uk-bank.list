@@ -154,4 +154,9 @@ DOMAIN-SUFFIX,payzilch.com
 # Card / Tokenisation - MeaWallet
 DOMAIN,mpp.prd.meawallet.app
 # Card Data / VGS
-DOMAIN,vgs-collect-keeper.apps.verygood.systems
+DOMAIN,vgs-collect-keeper.apps.verygood.systems、
+
+# Ria core services
+DOMAIN-SUFFIX,riamoneytransfer.com
+DOMAIN,com.ria.riamoneytransfer
+
