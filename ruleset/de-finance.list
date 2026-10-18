@@ -6,3 +6,8 @@ DOMAIN-SUFFIX,sardine.ai
 DOMAIN,bunq-prod-model-storage-public.s3.eu-central-1.amazonaws.com
 # Sentry 错误上报
 DOMAIN,o438986.ingest.sentry.io
+
+# ==================== Coinbase 德国区 ====================
+DOMAIN-SUFFIX,coinbase.com
+DOMAIN-SUFFIX,cb-device-intelligence.com
+DOMAIN,www.deribit.com
