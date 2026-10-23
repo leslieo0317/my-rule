@@ -148,3 +148,17 @@ DOMAIN,mpp.prd.meawallet.app
 
 # Uphold UK
 DOMAIN-SUFFIX,uphold.com
+
+# ==================== Cashi 英国区 ====================
+# Cashi 自有业务接口
+DOMAIN-SUFFIX,cashi.com
+# AppsFlyer 专属应用接口
+DOMAIN,e1mnxb.inapps.appsflyersdk.com
+DOMAIN,e1mnxb.cdn-settings.appsflyersdk.com
+DOMAIN,e1mnxb.launches.appsflyersdk.com
+# Sentry 项目专属错误监控
+DOMAIN,o4512172835799040.ingest.us.sentry.io
+# Bitrise 专属应用热更新
+DOMAIN,ea451ad408845e3c.codepush.bitrise.io
+# Intercom 专属客服工作区
+DOMAIN,gcqmep8p-android.mobile-messenger.intercom.com
