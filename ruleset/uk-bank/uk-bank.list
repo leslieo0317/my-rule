@@ -160,3 +160,14 @@ DOMAIN,vgs-collect-keeper.apps.verygood.systems、
 DOMAIN-SUFFIX,riamoneytransfer.com
 DOMAIN,com.ria.riamoneytransfer
 
+# ==================== Monzo 英国银行 ====================
+# Monzo 官方业务接口
+DOMAIN-SUFFIX,monzo.com
+DOMAIN-SUFFIX,monzo-alt.net
+# Monzo 专属服务状态接口
+DOMAIN,monzo.statuspage.io
+# Monzo 专属图片资源
+DOMAIN,monzo-prod-user-images.imgix.net
+DOMAIN,monzo-prod-user-images.s3.eu-west-1.amazonaws.com
+# Sentry 特定组织错误监控接口
+DOMAIN,o23827.ingest.sentry.io
