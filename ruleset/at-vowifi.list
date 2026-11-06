@@ -1,1 +1,8 @@
-DOMAIN-SUFFIX,epc.mnc012.mcc232.pub.3gppnetwork.org
+# Austria VoWiFi / ePDG
+# yesss!, A1, bob, Magenta, Drei
+
+# 所有奥地利运营商的公共 3GPP 域名
+DOMAIN-SUFFIX,mcc232.pub.3gppnetwork.org
+
+# 奥地利运营商其他 3GPP 核心网络域名
+DOMAIN-SUFFIX,mcc232.3gppnetwork.org
