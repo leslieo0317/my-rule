@@ -1,0 +1,30 @@
+# ==================== 盈立香港 uSMART HK ====================
+# 一、盈立自有业务域名
+DOMAIN-SUFFIX,yxzq.com
+DOMAIN-SUFFIX,usmartsg.com
+# 二、盈立专属腾讯云 COS 资源
+DOMAIN,jy-common-prd-hongkong-1437675564.cos.accelerate.myqcloud.com
+DOMAIN,web-static-rich-prd-hongkong-1319870113.cos.accelerate.myqcloud.com
+DOMAIN,hq-news-server-1319870113.cos.accelerate.myqcloud.com
+DOMAIN,jy-common-prd-hongkong-1437675564.cos.ap-hongkong.myqcloud.com
+DOMAIN,web-static-prd-hongkong-1437675564.cos.accelerate.myqcloud.com
+DOMAIN,frontend-topic-prod-hk-1437675564.cos.ap-hongkong.myqcloud.com
+DOMAIN,hq-prod-news-server-hongkong-1319870113.cos.accelerate.myqcloud.com
+DOMAIN,jy-common-prd-1257884527.cos.accelerate.myqcloud.com
+DOMAIN,web-prd-hongkong-1437675564.cos.accelerate.myqcloud.com
+DOMAIN,hq-prod-news-server-1257884527.file.myqcloud.com
+DOMAIN,hq-prod-news-server-hongkong-1319870113.cos.ap-hongkong.myqcloud.com
+# 三、盈立专属第三方服务
+# AppsFlyer 专属应用 ID
+DOMAIN,5pybao.inapps.appsflyersdk.com
+DOMAIN,5pybao.launches.appsflyersdk.com
+# 阿里云专属日志项目
+DOMAIN,-8961247fd15e277840e3c055aacaade-ap-southeast-1.ap-southeast-1.log.aliyuncs.com
+# 阿里云专属验证码项目
+DOMAIN,hpb59ol.captcha-open.aliyuncs.com
+# 四、行情及交易 TCP 服务 IP
+IP-CIDR,47.240.107.193/32,no-resolve
+IP-CIDR,47.239.19.15/32,no-resolve
+IP-CIDR,47.242.214.131/32,no-resolve
+IP-CIDR,47.242.186.255/32,no-resolve
+IP-CIDR,47.240.105.222/32,no-resolve
