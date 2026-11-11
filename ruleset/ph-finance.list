@@ -157,3 +157,29 @@ DOMAIN-SUFFIX,secbank.ph
 # Official Website / Online Banking
 DOMAIN-SUFFIX,securitybank.com
 DOMAIN-SUFFIX,securitybank.com.ph
+
+# ==================== PDAX 菲律宾数字资产交易所 ====================
+# 一、PDAX 官方业务接口
+DOMAIN-SUFFIX,pdax.ph
+# 二、PDAX 专属 AWS 资源
+DOMAIN,pdax-prod-mobile-ap-southeast-1.s3.ap-southeast-1.amazonaws.com
+# 三、PDAX 专属 Railway 服务
+DOMAIN,athena-web-production-bd34.up.railway.app
+# 四、PDAX 专属 CloudFront 资源
+DOMAIN,d21myxr1s1rgs4.cloudfront.net
+DOMAIN,dq4nytsa795t1.cloudfront.net
+# 五、AppsFlyer 专属应用接口
+DOMAIN,ne37we.inapps.appsflyersdk.com
+DOMAIN,ne37we.cdn-settings.appsflyersdk.com
+DOMAIN,ne37we.launches.appsflyersdk.com
+# 六、HyperVerge 身份验证及 KYC 服务
+DOMAIN,ind-thomas.hyperverge.co
+DOMAIN,sgp.idv.hyperverge.co
+DOMAIN,phl-orion.hyperverge.co
+DOMAIN,config-cdn.hyperverge.co
+DOMAIN,hv-web-sdk-cdn.hyperverge.co
+DOMAIN,assets.edge.hyperverge.co
+DOMAIN,kycdev-hyperverge-co.s3.ap-south-1.amazonaws.com
+DOMAIN,hv-central-config.s3.ap-south-1.amazonaws.com
+# 七、PDAX 专属 Sentry 错误监控
+DOMAIN,o435277.ingest.us.sentry.io
