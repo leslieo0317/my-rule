@@ -171,3 +171,18 @@ DOMAIN,monzo-prod-user-images.imgix.net
 DOMAIN,monzo-prod-user-images.s3.eu-west-1.amazonaws.com
 # Sentry 特定组织错误监控接口
 DOMAIN,o23827.ingest.sentry.io
+
+# ==================== NALA 英国汇款软件 ====================
+# 一、NALA 官方业务 API
+DOMAIN-SUFFIX,nala.com
+DOMAIN-SUFFIX,nala-api.com
+DOMAIN,hello.prod.nala-api.com
+# 二、NALA 专属 AWS AppSync 实时服务
+DOMAIN,bnrk5tij3fdzdmmpoby7mzztsq.appsync-realtime-api.eu-west-1.amazonaws.com
+# 三、AppsFlyer 应用专属接口
+DOMAIN,wucuij.cdn-settings.appsflyersdk.com
+DOMAIN,wucuij.launches.appsflyersdk.com
+# 四、Sentry 应用错误监控
+DOMAIN,o974819.ingest.sentry.io
+# 五、Intercom 客服系统应用专属工作区
+DOMAIN,kbvi0375-android.mobile-messenger.intercom.com
