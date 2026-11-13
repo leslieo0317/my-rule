@@ -151,6 +151,7 @@ DOMAIN,submit.backtrace.io
 # =========================
 # Zilch Core
 DOMAIN-SUFFIX,payzilch.com
+DOMAIN-SUFFIX,zilch.com
 # Card / Tokenisation - MeaWallet
 DOMAIN,mpp.prd.meawallet.app
 # Card Data / VGS
