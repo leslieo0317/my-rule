@@ -39,23 +39,6 @@ DOMAIN,aws-gate.licelus.com
 DOMAIN,api64.ipify.org
 DOMAIN,mobile-data.onetrust.io
 
-# ==================================================
-# MoneyGram
-# ==================================================
-
-DOMAIN-SUFFIX,moneygram.com
-DOMAIN,o4509507145826304.ingest.us.sentry.io
-DOMAIN,thpuxh.inapps.appsflyersdk.com
-DOMAIN,thpuxh.launches.appsflyersdk.com
-DOMAIN,api.authsignal.com
-DOMAIN,app.zetaglobal.net
-DOMAIN,distributions.crowdin.net
-DOMAIN,exp.host
-DOMAIN,u.expo.dev
-DOMAIN,zqpa2.us-east2.aws.oscilar.com
-# Liberty edu
-DOMAIN-SUFFIX,liberty.edu
-
 #Majority
 DOMAIN-SUFFIX,majority.com
 DOMAIN-SUFFIX,minority.com
