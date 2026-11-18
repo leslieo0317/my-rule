@@ -190,3 +190,30 @@ IP-CIDR,47.239.19.15/32,no-resolve
 IP-CIDR,47.242.214.131/32,no-resolve
 IP-CIDR,47.242.186.255/32,no-resolve
 IP-CIDR,47.240.105.222/32,no-resolve
+
+# ==================== 香港 FSM Global（原 FSMOne） ====================
+# 一、FSM Global 香港官方网站
+DOMAIN-SUFFIX,fsmglobal.hk
+# 二、FSM Global 全球官方网站
+DOMAIN-SUFFIX,fsm.global
+# 三、FSM / Fundsupermart 香港旧版业务域名及 API
+DOMAIN-SUFFIX,fundsupermart.com.hk
+# 四、iFAST 集团官方域名及 API
+DOMAIN-SUFFIX,ifastcorp.com
+# 五、FSMOne 旧品牌相关服务
+DOMAIN-SUFFIX,fsmone.com
+# 六、FSM 专属客服服务
+DOMAIN,chat.fundsupermart.com
+# 七、FSM App 错误监控
+DOMAIN,sentry.ifastcorp.com
+# 八、iFAST Global View 服务
+DOMAIN,www.ifastglobalview.com
+# 九、iFAST API 接口
+DOMAIN,apiconnect.ifastcorp.com
+DOMAIN,apiconnect3.ifastcorp.com
+# 十、Zimperium App 安全防护
+DOMAIN,cdn.zimperium.com
+DOMAIN,zapac2.zimperium.com
+DOMAIN,apmtd02-cdn.zimperium.com
+DOMAIN,edge.zimperium.com
+# ==================== 结束 ====================
