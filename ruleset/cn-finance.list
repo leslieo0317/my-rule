@@ -143,3 +143,19 @@ DOMAIN,proxy001.api.mtr.com.hk
 
 # Boc Pay
 DOMAIN,cashbox.boc.cn
+
+# ==================== 香港 WeLab 汇立银行 ====================
+# 一、汇立银行官方域名（官网 + App + API）
+DOMAIN-SUFFIX,welab.bank
+# 二、WeLab 集团官方网站
+DOMAIN-SUFFIX,welab.co
+# 三、汇立银行专属 Dynatrace 监控
+DOMAIN,bf13700mlu.bf.dynatrace.com
+# 四、SecIron 应用安全服务
+DOMAIN,ironskyapi.seciron.com
+# 五、WeLab 使用的 MeaWallet 服务
+DOMAIN,mpp.prd.meawallet.app
+DOMAIN,mcd.prd.meawallet.app
+# 六、Mastercard ThreatMetrix 风控服务
+DOMAIN,h64.online-metrix.net
+DOMAIN,aa.online-metrix.net
