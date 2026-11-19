@@ -1,1 +1,51 @@
-# 暂无
+# ==================== 香港老虎证券 Tiger Brokers ====================
+# 一、香港官方网站及官方入口
+DOMAIN-SUFFIX,itiger.com
+DOMAIN-SUFFIX,tigerbrokers.com.hk
+DOMAIN-SUFFIX,itigerup.com
+# 二、老虎证券核心业务 API、行情及交易
+DOMAIN-SUFFIX,skytigris.cn
+DOMAIN-SUFFIX,iotaskyt.com
+DOMAIN-SUFFIX,iotaskyty.com
+DOMAIN-SUFFIX,tigerfintech.com
+# 三、老虎证券社区、资讯及静态资源
+DOMAIN-SUFFIX,laohu8.com
+DOMAIN-SUFFIX,tigerbbs.com
+DOMAIN,community-service.tradeup.com
+DOMAIN,community-static.tradeup.com
+# 四、香港地区门户及相关业务
+DOMAIN-SUFFIX,tigerhkgo.com
+DOMAIN-SUFFIX,tigersecurities.com
+DOMAIN-SUFFIX,tigrdw.com
+DOMAIN-SUFFIX,tigrwd.com
+# 五、老虎官方网站静态资源
+DOMAIN-SUFFIX,itigergrowtha.com
+# 六、AppsFlyer 老虎 App 专属标识
+DOMAIN,vfoatp.launches.appsflyersdk.com
+DOMAIN,vfoatp.inapps.appsflyersdk.com
+# 七、阿里云 RUM 项目专属监控接口
+DOMAIN,eczp7ijd7o-default-sea.rum.aliyuncs.com
+DOMAIN,eczp7ijd7o-default-cn.rum.aliyuncs.com
+# ==================== 公开规则扩展域名 ====================
+# 加速及备用服务
+DOMAIN-SUFFIX,skytigris.com
+DOMAIN-SUFFIX,atigrpulse.com
+DOMAIN-SUFFIX,atigrzen.com
+DOMAIN-SUFFIX,ftfast.com
+DOMAIN-SUFFIX,itigergrowth.com
+DOMAIN-SUFFIX,tigr.link
+# 香港地区门户及相关站点
+DOMAIN-SUFFIX,etasphere.com
+DOMAIN-SUFFIX,gotigerhk.com
+DOMAIN-SUFFIX,itigertrader.com
+DOMAIN-SUFFIX,thetigerbrokers.com
+DOMAIN-SUFFIX,tigertrader.app
+DOMAIN-SUFFIX,tigrgood.com
+# 全球官网及社区兼容
+DOMAIN-SUFFIX,tigerbrokers.com
+DOMAIN-SUFFIX,ttm.financial
+DOMAIN-SUFFIX,tigerbbs.cn
+DOMAIN-SUFFIX,xiaohu8.com
+DOMAIN-SUFFIX,zhijianfengyi.cn
+DOMAIN-SUFFIX,zhijianfengyi.com
+# ==================== 结束 ====================
