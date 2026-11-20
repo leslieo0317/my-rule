@@ -1,26 +1,3 @@
-#HSBC UK
-DOMAIN-SUFFIX,hsbc.co.uk
-DOMAIN,hsbc.edge.sdk.awswaf.com
-DOMAIN-SUFFIX,online-metrix.net
-DOMAIN,mobile.eum-appdynamics.com
-DOMAIN,collect-eu-central-1.tealiumiq.com
-DOMAIN,visitor-service-eu-central-1.tealiumiq.com
-DOMAIN,collect.tealiumiq.com
-DOMAIN,tags.tiqcdn.com
-DOMAIN,akamai.tiqcdn.com
-DOMAIN,euwe1.idp.liveperson.net
-DOMAIN,euwe1.pusher.liveperson.net
-DOMAIN,lo0.v.liveperson.net
-DOMAIN,lptag.liveperson.net
-DOMAIN,accdn.lpsnmedia.net
-DOMAIN,lpcdn-vip.lpsnmedia.net
-DOMAIN,eapi.preferences.prod.eu-west-1.vam-uk.cloud1.vv1865.com
-DOMAIN,messaging.prod.eu-west-1.vam-uk.cloud1.vv1865.com
-DOMAIN,log-beed83c9.eu.v2.we-stats.com
-DOMAIN,api.zaius.com
-DOMAIN,cdn.optimizely.com
-DOMAIN,rum.hlx.page
-
 # PayPal UK
 DOMAIN-SUFFIX,paypal.com
 DOMAIN-SUFFIX,paypalobjects.com
@@ -113,7 +90,6 @@ DOMAIN,tracking.typeform.com
 DOMAIN,unpkg.com
 DOMAIN,use.typekit.net
 
-
 # Chase UK
 # Captured from Android package: com.chase.intl
 # Chase 官方域名
@@ -187,3 +163,16 @@ DOMAIN,wucuij.launches.appsflyersdk.com
 DOMAIN,o974819.ingest.sentry.io
 # 五、Intercom 客服系统应用专属工作区
 DOMAIN,kbvi0375-android.mobile-messenger.intercom.com
+
+# ==================== dtcpay 数字支付平台 ====================
+# 一、dtcpay 官方网站及 App 业务接口
+DOMAIN-SUFFIX,dtcpay.com
+# 二、dtcpay 官方旧版钱包及支付服务
+DOMAIN,wallet.dtcpayment.com
+DOMAIN,static.dtcpayment.net
+# 三、第三方数字卡服务
+DOMAIN,www.digitalcardservice.com
+# 四、AppsFlyer dtcpay App 专属标识
+DOMAIN,pm3rnz.cdn-settings.appsflyersdk.com
+DOMAIN,pm3rnz.launches.appsflyersdk.com
+# ==================== 结束 ====================
