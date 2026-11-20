@@ -37,47 +37,7 @@ DOMAIN,o4509875443204096.ingest.de.sentry.io
 # Ether.fi
 DOMAIN-SUFFIX,ether.fi
 
-# TapTap Send
-DOMAIN-SUFFIX,taptapsend.com
-DOMAIN-SUFFIX,taptapsend.zendesk.com
-DOMAIN-SUFFIX,marqeta.com
-DOMAIN-SUFFIX,siftscience.com
-DOMAIN-SUFFIX,mixpanel.com
-DOMAIN-SUFFIX,sentry.io
-DOMAIN-SUFFIX,datadoghq.com
-DOMAIN,ipapi.co
-
-# Sendwave
-DOMAIN-SUFFIX,sendwave.com
-DOMAIN-SUFFIX,riskified.com
-DOMAIN-SUFFIX,incognia.com
-DOMAIN-SUFFIX,connect.us-west-2.amazonaws.com
-DOMAIN-SUFFIX,sendwave-public-assets.s3.us-east-1.amazonaws.com
-
-# Plum
-DOMAIN-SUFFIX,withplum.com
-DOMAIN-SUFFIX,intercom.com
-DOMAIN-SUFFIX,intercom.io
-DOMAIN-SUFFIX,appsflyer.com
-DOMAIN-SUFFIX,appsflyersdk.com
-DOMAIN-SUFFIX,lokalise.com
-
-# Freetrade
-DOMAIN-SUFFIX,freetrade.io
-DOMAIN,freetrade-prod.firebaseio.com
-DOMAIN-SUFFIX,mixpanel.com
-DOMAIN-SUFFIX,branch.io
-DOMAIN-SUFFIX,intercom.com
-DOMAIN-SUFFIX,intercom.io
-DOMAIN-SUFFIX,sentry.io
-DOMAIN-SUFFIX,lokalise.com
-DOMAIN-SUFFIX,braze.eu
-DOMAIN-SUFFIX,algolia.net
-DOMAIN-SUFFIX,storyblok.com
-
 # Pulsar Money UK
-# Package: money.pulsar.app
-# Pulsar
 DOMAIN-SUFFIX,pulsar.money
 # Authentication / Wallet
 DOMAIN,auth.privy.io
@@ -118,15 +78,6 @@ DOMAIN,gw-intl.alipayobjects.com
 DOMAIN,worldfirst-app-alipw3sg-default.alipayplus-amcs.com
 
 # =========================
-# TransferGo UK
-# Package: com.transfergo.android
-# =========================
-# TransferGo Core
-DOMAIN-SUFFIX,transfergo.com
-# Customer Support
-DOMAIN,transfergo.zendesk.com
-
-# =========================
 # TopCashback UK
 # Package: uk.co.topcashback.topcashback
 # =========================
@@ -145,9 +96,6 @@ DOMAIN-SUFFIX,lava.xyz
 DOMAIN,grpcweb.mainnet.lava.xyz
 # Card / Wallet infrastructure
 DOMAIN,mpp.prd.meawallet.app
-
-# Uphold UK
-DOMAIN-SUFFIX,uphold.com
 
 # ==================== Cashi 英国区 ====================
 # Cashi 自有业务接口
